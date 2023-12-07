@@ -8,7 +8,7 @@ To be used in Rec Room:
 https://recroom.com/
 
 with my printer invention:
-https://rec.net/invention/6721972668995078564
+https://rec.net/invention/6977045549365627338
 
 in order to print images into the game! :D
 
