@@ -12,7 +12,8 @@ https://rec.net/invention/6977045549365627338
 
 in order to print images into the game! :D
 
-when running, the prompts should give detail on what to do
-addtional refferences to things like compiling & encoding & such are most liekly referencing Scratch, it has all you need to know about the shortcut keys.
+when running, the prompts should give detail on what to do.
+
+Addtional refferences to things like compiling & encoding & such are most likely referencing Scratch, it has all you need to know about the shortcut keys.
 
 hope your expereince goes well, happy printing!
